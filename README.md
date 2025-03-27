@@ -1,11 +1,11 @@
 ## Job Ready AI-Powered Cohort: Complete Web Development + DSA + Aptitude by Sheryians Coding School
 
-### Project Exercise 6: Responsive Photo Gallery with CSS Grid
+### Project Exercise 7: Change Background Color with JavaScript
 
-- **Topic Covered:** HTML, CSS
-- **Description:** Design a responsive photo gallery using CSS Grid. The gallery should display images of varying sizes in a grid layout, where the number of columns adjusts based on the screen size. Use media queries to ensure the layout is responsive and looks great on different devices, such as desktops, tablets, and mobiles. The gallery should adapt to different screen widths, adjusting the grid to display images in an optimal manner.
-- **Skills Covered:** CSS Grid for layout management, media queries for responsiveness, and creating flexible, adaptive designs.
+- **Topic Covered:** JavaScript
+- **Description:** Write a JavaScript script that changes the background color of the webpage when a button is clicked. The button should trigger a function that alters the `background-color` of the webpage. Use DOM manipulation to select the button element and apply an event listener for the click event.
+- **Skills Covered:** Basic JavaScript syntax, functions, event handling, and DOM manipulation.
 
 ### Live Demo
 
-You see a live demo of this ()
+You see a live demo of this project (https://random-bgcolor-generator.netlify.app/)
